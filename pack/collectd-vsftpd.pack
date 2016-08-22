@@ -1,0 +1,6 @@
+{
+    "name": "collectd-vsftpd",
+    "description": "Checks to manage our VSFTPD collectd checks",
+    "path": "collectd-vsftpd",
+    "macros": {}
+}
