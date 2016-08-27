@@ -28,4 +28,4 @@ This pack depends to shinken-pack-collectd-base to work
 ## Default values
 
     _vsftpd_processes   vsftpd $(vsftpd)$$(1:1)$$(1:1)$
-    _vsftpd_listen      FTPS port $(990)$$(1:1)$$(1:1)$,Data port $(989)$$(1:1)$$(1:1)$
+    _vsftpd_listen      FTPS port $(990)$$(1:1)$$(1:1)$
