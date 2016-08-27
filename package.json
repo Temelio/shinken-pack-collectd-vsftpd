@@ -1,7 +1,7 @@
 {
     "name": "collectd-vsftpd",
     "types": ["pack"],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/Temelio/shinken-pack-collectd-vsftpd",
     "author": "Alexandre Chaussier",
     "description": "Collectd VSFTPD monitoring checks, using collectd-nagios plugin",
